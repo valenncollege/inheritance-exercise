@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35714.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DimentionalObject", "DimensionalObjects\DimentionalObject.csproj", "{50610C12-BCA4-49C8-9B82-2B165F98320A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeWageSystem", "EmployeeWageSystem\EmployeeWageSystem.csproj", "{93F5309A-F5DC-495E-9FA9-DF02F684AB2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50610C12-BCA4-49C8-9B82-2B165F98320A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50610C12-BCA4-49C8-9B82-2B165F98320A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50610C12-BCA4-49C8-9B82-2B165F98320A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50610C12-BCA4-49C8-9B82-2B165F98320A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F5309A-F5DC-495E-9FA9-DF02F684AB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F5309A-F5DC-495E-9FA9-DF02F684AB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F5309A-F5DC-495E-9FA9-DF02F684AB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F5309A-F5DC-495E-9FA9-DF02F684AB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA9080AA-741D-4C81-9E57-0B53A58528CF}
+	EndGlobalSection
+EndGlobal
